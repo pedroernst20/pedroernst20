@@ -34,13 +34,6 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_ACA&show_icons=true&theme=nord&hide_border=true&bg_color=transparent" height="150" alt="Estadísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_ACA&layout=compact&theme=nord&hide_border=true&bg_color=transparent" height="150" alt="Lenguajes" />
-</div>
-
 <div align="center">
   <sub><i>"El 6 es nota el resto es lujo."</i></sub>
 </div>
